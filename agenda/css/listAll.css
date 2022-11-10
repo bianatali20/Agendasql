@@ -1,0 +1,37 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    font: arial;
+    background-image: url(../css/img/fundo-formulario-e1588654471272.png);
+    background-repeat:repeat ;
+    background-size: cover ;
+    background-position: 100%;
+}
+
+.container {
+    position: absolute;
+    
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+    padding: 30px;
+}
+
+a {
+    color: aliceblue;
+    background-color: rgba(34, 90, 124, 0.8);
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 50%;
+
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    
+}
+
+h4 {
+    text-align: center;
+}
